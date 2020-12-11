@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q22X2IK)
 # protobuf-transpilers
 This project aims to create various protobuf transpilers. Simple, yet useful ;)
 
